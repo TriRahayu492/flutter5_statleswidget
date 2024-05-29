@@ -1,3 +1,2 @@
 # trirahayu5_statleswidget
-
-A new Flutter project.
+![Foto](https://github.com/TriRahayu492/flutter5_statleswidget/blob/main/trirahayu5.png)
